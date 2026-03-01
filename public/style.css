@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    
+}
+.cimg{
+    height: 90vh;
+    background-size: contain;
+
+}
+.footer{
+    height: 15vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    bottom: 0px;
+    
+
+}
+.allhead{
+    margin-top: 14vh;
+}
+.navItem{
+    margin-left: 68vw;
+}
